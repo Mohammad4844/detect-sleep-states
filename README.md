@@ -4,7 +4,7 @@ Kaggle Competition hosted by [The Child Mind Institute](https://childmind.org). 
 learning models when detecting when exaclty a person wakes up 'wakeup', and when a person goes to sleep 'onset'.
 
 This repository contains the following:
-- A [paper]() outlining the study and analysis
+- A [paper](math319_project-1_detect-sleep-states_Mohammad.pdf) outlining the study and analysis
 - A [google colab notebook]() containing the code for this project, written in Python and using Pytorch, Hugging Face, and Pandas 
 
 # Abstract
