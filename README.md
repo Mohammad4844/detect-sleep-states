@@ -5,7 +5,7 @@ learning models when detecting when exaclty a person wakes up 'wakeup', and when
 
 This repository contains the following:
 - A [paper]() outlining the study and analysis
-- A [google colab notebook] containing the code for this project, written in Python and using Pytorch, Hugging Face, and Pandas 
+- A [google colab notebook]() containing the code for this project, written in Python and using Pytorch, Hugging Face, and Pandas 
 
 # Abstract
 
