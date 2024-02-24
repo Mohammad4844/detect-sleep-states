@@ -5,7 +5,9 @@ learning models when detecting when exaclty a person wakes up 'wakeup', and when
 
 This repository contains the following:
 - A [paper](math319_project-1_detect-sleep-states_Mohammad.pdf) outlining the study and analysis
-- A [google colab notebook]() containing the code for this project, written in Python and using Pytorch, Hugging Face, and Pandas 
+- The follwoing Jupyter Notebooks contain the code for this project, written in Python and using Pytorch, Hugging Face, and Pandas:
+  - Original approach [notebook](detect_sleep_states_original.ipynb)
+  - Revised approach [notebook](detect_sleep_states_revised.ipynb)
 
 # Abstract
 
